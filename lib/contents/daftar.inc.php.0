@@ -1,0 +1,7 @@
+<?php
+$page_title=$sysconf['library_name']." | Pendaftaran Anggota Baru";
+
+echo '
+	Maaf, pendaftaran online Anggota Perpustakaan telah ditutup. Hubungi kepala atau staf perpustakaan untuk mendaftarkan diri dan mendapatkan informasi lengkap tentang keanggotaan perpustakaan.<br /><br />
+	Bila Anda telah terdaftar sebagai anggota perpustakaan, silakan login <a href="http://localhost/perpustakaan/index.php?p=member"> di sini</a>';
+?>
